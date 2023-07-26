@@ -1,4 +1,5 @@
 # data_pipline
-fast and lightweight data Infrastructure Design
+Fast and lightweight Data Infrastructure Design
 
-![alt text](https://i.ibb.co/zZHgDWG/data-pipeline-khanhhc.jpg)
+
+![Data Infrastructure Design](https://i.ibb.co/zZHgDWG/data-pipeline-khanhhc.jpg)
